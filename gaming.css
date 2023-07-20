@@ -212,6 +212,43 @@ margin-left: 150px;
 #bdt{
     color:#FF42A5 ;
 }
+#ftxt{
+    color:#FFF
+}
+
+
+.fdesc{
+    color: #FFF;
+    margin:30px 5px;
+}
+.fspan{
+    margin:0px 8px;
+}
+.ficon-desc{
+    color: rgba(255, 255, 255, 0.60);
+    display: flex;
+    margin:20px 0px;
+}
+.ficon-desc h6{
+    margin:0px 14px;
+}
+#fh6{
+    color: rgba(255, 255, 255, 0.60); 
+}
+
+.foot-container{
+    width: 100%;
+height: 436px;
+    background: #0B0223;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.ficon img{
+  
+    margin:5px 20px
+}
 
 
 
